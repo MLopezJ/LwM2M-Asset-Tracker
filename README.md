@@ -16,6 +16,7 @@
 ## Device Connection
 * **Goal**: send data from Thingy:91 to a cloud provider through an integration with Coiote
 * **How**: Connect the Thingy:91 with nRF Asset Tracker firmware to Coiote and then, implement integration between Coiote and available cloud providers. 
+* **Link**: [Connection: Thingy:91 -> Coiote -> Cloud provider](https://github.com/MLopezJ/thingy91-coiote-cloud-connection)
 
 ## Device Simulator
 * **Goal**: Send and upate data from a simulate device to Coiote
