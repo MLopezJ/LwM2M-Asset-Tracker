@@ -21,6 +21,7 @@
 ## Device Simulator
 * **Goal**: Send and upate data from a simulate device to Coiote
 * **How**: Uses LwM2M protocol to connect to Coiote
+* **Link**: [LwM2M Device Simulator](https://github.com/MLopezJ/LwM2M-device-simulator)
 
 ## Coiote Result Transformation
 * **Goal**: Take the result from the cloud integration and transform it from Coiote format to Asset Tracker format
