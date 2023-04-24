@@ -8,12 +8,14 @@
 
 ## Steps
 
-| Name | -- | -- | -- | -- |
-| -- | -- | -- | -- | -- |
+| Name | -- | -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | -- | -- | -- |
 | Device Connection | ---> |  |  |  |
 | Device Simulator |  | ---> |  |  |
 | Coiote Result Transformation |  |  | ---> |  |
 | Asset Tracker Connection |  |  |  | ---> |
+| End-to-end test |  |  |  | | ---> |
+| Documentation |  |  |  | |  | ---> |
 
 ## Device Connection
 * **Goal**: send data from Thingy:91 to a cloud provider through an integration with Coiote
