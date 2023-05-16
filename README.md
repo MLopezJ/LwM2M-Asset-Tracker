@@ -30,6 +30,7 @@
 ## Coiote Result Transformation
 * **Goal**: Take the result from the cloud integration and transform it from Coiote format to Asset Tracker format
 * **How**: Check types and build Asset Tracker expected input object
+* **Link**: [Result Transformation](https://github.com/MLopezJ/coiote-result-transformation/tree/saga)
 
 ## Asset Tracker Connection
 * **Goal**: Connect the cloud instance with Asset Tracker web application 
