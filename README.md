@@ -35,3 +35,7 @@
 ## Asset Tracker Connection
 * **Goal**: Connect the cloud instance with Asset Tracker web application 
 * **How**: Implement the transformation process of last step in the cloud provider, this way the data is already transformed before send it to Asset Tracker
+
+### Notes
+
+* Batch update feature is not supported by LwM2M Asset Tracker. [+info](https://github.com/MLopezJ/LwM2M-Asset-Tracker/issues/1)
