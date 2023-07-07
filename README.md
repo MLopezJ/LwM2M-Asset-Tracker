@@ -39,3 +39,4 @@
 ### Notes
 
 * Batch update feature is not supported by LwM2M Asset Tracker. [+info](https://github.com/MLopezJ/LwM2M-Asset-Tracker/issues/1)
+* [Roam timestamp](https://github.com/NordicSemiconductor/asset-tracker-cloud-docs/blob/saga/docs/cloud-protocol/state.reported.azure.json#L56) is not supported by LwM2M. [+info](https://github.com/MLopezJ/LwM2M-Asset-Tracker/issues/3#issuecomment-1625222632)
